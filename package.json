@@ -1,0 +1,61 @@
+{
+  "name": "blinkid-cordova",
+  "version": "4.5.0",
+  "description": "A small and powerful ID card scanning library",
+  "cordova": {
+    "id": "blinkid-cordova",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlinkID/blinkid-phonegap.git"
+  },
+  "keywords": [
+    "scan",
+    "id",
+    "scanner",
+    "identity",
+    "ID",
+    "passport",
+    "sdk",
+    "ocr",
+    "USDL",
+    "PDF417",
+    "MRZ",
+    "MRTD",
+    "barcode",
+    "DL",
+    "card",
+    "document",
+    "microblink",
+    "blinkid",
+    "ionic",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=7.0.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=7.0.0"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=4.4.0"
+    }
+  ],
+  "author": "Microblink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlinkID/blinkid-phonegap/issues"
+  },
+  "homepage": "https://github.com/BlinkID/blinkid-phonegap#readme"
+}
